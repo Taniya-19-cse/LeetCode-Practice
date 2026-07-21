@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
