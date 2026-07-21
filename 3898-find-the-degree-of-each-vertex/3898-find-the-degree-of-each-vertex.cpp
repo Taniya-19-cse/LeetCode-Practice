@@ -8,7 +8,10 @@ public:
             int sum=0;
             for(int j=0;j<matrix[i].size();j++)
             {
-                sum+=matrix[i][j];
+                if(matrix[i][j]==1)
+                {
+                     sum+=matrix[i][j];
+                } 
             }
             ans.push_back(sum);
         }
