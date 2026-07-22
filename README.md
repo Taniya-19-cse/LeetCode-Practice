@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3945-digit-frequency-score](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
