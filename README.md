@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
@@ -81,10 +83,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3945-digit-frequency-score](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
