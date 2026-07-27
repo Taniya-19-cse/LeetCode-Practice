@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
