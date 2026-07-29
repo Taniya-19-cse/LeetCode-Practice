@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
