@@ -21,11 +21,6 @@ public:
             cnt++;
             temp=temp->next;
         }
-          if(n==1 && cnt==1)
-        {
-            delete(head);
-            return NULL;
-        }
         if(cnt==n)
         {
             ListNode* newHead=head->next;
