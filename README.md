@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
