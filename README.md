@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
