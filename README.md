@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -175,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
