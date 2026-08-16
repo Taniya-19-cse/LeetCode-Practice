@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0735-asteroid-collision) |
