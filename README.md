@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0162-find-peak-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/2104-sum-of-subarray-ranges) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Taniya-19-cse/LeetCode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
